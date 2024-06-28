@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Counter-Surveillance on ASRG</title>
+    <link>http://localhost:1313/asrg/tags/Counter-Surveillance/</link>
+    <description>Recent content in Counter-Surveillance on ASRG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/asrg/tags/Counter-Surveillance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Police Officers Faces (POF)</title>
+      <link>http://localhost:1313/asrg/police_officers-faces-pof/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/police_officers-faces-pof/</guid>
+      <description>Police Officers Faces (POF) A large-scale face recognition dataset containing of approximately 90,000 headshot photos of thousands of police officers. This dataset is intended as a tool to empower community members engaged in copwatch and other counter-surveillance practices. Posted: Jun 17, 2024. Modified: Jun 28, 2024 One hundred sample images from the “POF” face recognition dataset. Faces have been redacted to protect privacy. One hundred sample images from the “POF” face recognition dataset.</description>
+    </item>
+    <item>
+      <title>Theorizing “Algorithmic Sabotage”</title>
+      <link>http://localhost:1313/asrg/theorizing-algorithmic_sabotage/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/theorizing-algorithmic_sabotage/</guid>
+      <description>Theorizing “Algorithmic Sabotage” An urgent intervention rooted in the militant liberation struggles of the most oppressed within the arena of global computational racial capitalism. Posted: Jun 13, 2024. Modified: Jun 15, 2024 A crowd in San Francisco’s Chinatown surrounded a Waymo robotaxi on Saturday, breaking windows and throwing fireworks inside, setting the vehicle ablaze | Image Source: https://sfstandard.com/2024/02/12/waymo-san-francisco-burned-arrests/ Context # Based on the work of the Algorithmic Sabotage Research Group (ASRG), Theorizing “Algorithmic Sabotage” is an urgent intervention rooted in the militant liberation struggles of the most oppressed within the arena of global computational racial capitalism, with the aim of creating and defending spaces of autonomy for the development and dissemination of radical and counter-hegemonic social imaginaries through the universal prefigurative techno-politicisation of the class base, for the manifestation of direct, vigorous struggles of combative algorithmic agency and resistance against the hyper-abstracted optimisations and capitalisation of life without limits by the techno-elite regimes, the mathematised processes of alienation and the turn towards to algorithmic fascism.</description>
+    </item>
+  </channel>
+</rss>

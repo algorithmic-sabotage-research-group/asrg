@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ASRG</title>
+    <link>http://localhost:1313/asrg/tags/</link>
+    <description>Recent content in Tags on ASRG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/asrg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artivism</title>
+      <link>http://localhost:1313/asrg/tags/Artivism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Artivism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copwatch</title>
+      <link>http://localhost:1313/asrg/tags/Copwatch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Copwatch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Counter-Surveillance</title>
+      <link>http://localhost:1313/asrg/tags/Counter-Surveillance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Counter-Surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT</title>
+      <link>http://localhost:1313/asrg/tags/OSINT/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/OSINT/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scrapism</title>
+      <link>http://localhost:1313/asrg/tags/Scrapism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Scrapism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Engineering</title>
+      <link>http://localhost:1313/asrg/tags/Social-Engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Social-Engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithmic Sabotage</title>
+      <link>http://localhost:1313/asrg/tags/Algorithmic-Sabotage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Algorithmic-Sabotage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASRG</title>
+      <link>http://localhost:1313/asrg/tags/ASRG/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/ASRG/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Counter-Intelligence</title>
+      <link>http://localhost:1313/asrg/tags/Counter-Intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Counter-Intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feedback Loops</title>
+      <link>http://localhost:1313/asrg/tags/Feedback-Loops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Feedback-Loops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manifesto</title>
+      <link>http://localhost:1313/asrg/tags/Manifesto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Manifesto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PSYOP</title>
+      <link>http://localhost:1313/asrg/tags/PSYOP/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/PSYOP/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sabotage</title>
+      <link>http://localhost:1313/asrg/tags/Sabotage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asrg/tags/Sabotage/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
